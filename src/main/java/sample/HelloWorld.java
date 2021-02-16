@@ -12,6 +12,3 @@ class Main {
         System.out.println("Size of queue "+q.size());
       }
     }
-
-  }
-}
